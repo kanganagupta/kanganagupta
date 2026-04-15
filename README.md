@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kangana Gupta</h1>
-<h3 align="center">3rd-year Student | Data Engineer | Python Developer</h3>
+<h3 align="center">Student</h3
 
 <p align="center">
   🌱 Learning • 🚀 Building • 🔧 Engineering Data
@@ -20,18 +20,14 @@
 - 🎓 3rd-year college student passionate about **data infrastructure and engineering**
 - 🌱 Currently learning **Python, SQL, ETL pipelines, and data pipeline tools**
 - 🔧 Building projects focused on **data ingestion, transformation, and storage**
-- 📦 Interested in **batch & stream processing, data warehousing, and workflow orchestration**
-- 🚀 Goal: Become a **Data Engineer** and build scalable, reliable data systems
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, PySpark *(learning)*
-- **Pipeline & Workflow:** Apache Airflow *(learning)*, Shell Scripting
+- **Libraries:** Pandas, NumPy *(learning)*
 - **Databases:** MySQL, PostgreSQL, SQLite
-- **Storage & Cloud:** AWS S3 *(exploring)*, Google BigQuery *(exploring)*
 - **Tools & Platforms:** Git, GitHub, VS Code, Excel
 - **Core Concepts:** ETL/ELT, Data Modeling, Exploratory Data Analysis (EDA), Data Cleaning, Schema Design
 
@@ -58,9 +54,8 @@
 ## 🤝 Open To
 
 - Data Engineering internships & entry-level roles
-- Python / SQL pipeline projects
+- Python / SQL projects
 - Beginner-friendly open source collaborations
-- Mentorship in the data engineering space
 
 ---
 
