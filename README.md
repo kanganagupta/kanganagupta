@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi there, I'm Kangana Gupta 👋
@@ -16,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a third-year CS student at **Bansal Institute of Research and Technology, Bhopal**, passionate about turning raw data into meaningful insights — and now diving deeper into **Machine Learning**.
+I'm a second-year CS student at **Bansal Institute of Research and Technology, Bhopal**, passionate about turning raw data into meaningful insights — and now diving deeper into **Machine Learning**.
 
 - 🎓 B.Tech Computer Science & Engineering (2023–2027)
 - 📊 Background in data analytics, EDA, and end-to-end data pipelines
@@ -28,13 +27,13 @@ I'm a third-year CS student at **Bansal Institute of Research and Technology, Bh
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Data Science & ML
+**Data Science & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -42,7 +41,7 @@ I'm a third-year CS student at **Bansal Institute of Research and Technology, Bh
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -55,39 +54,35 @@ I'm a third-year CS student at **Bansal Institute of Research and Technology, Bh
 ## 🚀 Featured Projects
 
 ### 📊 Customer Behaviour Analysis — Segmentation & Insights Dashboard
-
 > `Python` `Pandas` `NumPy` `Scikit-learn` `SQL` `Power BI`
 
-- Performed end-to-end EDA on customer demographic and transactional data
-- Applied **K-Means & Hierarchical Clustering**
-- Built an interactive **Power BI dashboard**
+- Performed end-to-end EDA on customer demographic and transactional data to uncover behavioral patterns
+- Applied **K-Means & Hierarchical Clustering** (Elbow Method + Silhouette Score) to segment customers for targeted marketing
+- Built an interactive **Power BI dashboard** visualizing spending trends, demographic impact, and segment-level insights
 
 ---
 
 ### 💰 Expense Tracker — Automated Finance Analytics Pipeline
-
 > `Python` `Pandas` `NumPy` `Tkinter`
 
-- Engineered a data ingestion pipeline
-- Processed **50+ daily transactions**
-- Built an interactive dashboard
+- Engineered a data ingestion pipeline processing **50+ daily transactions** with cleaning, deduplication, and structured storage
+- Performed EDA across **5+ spending categories** using statistical aggregation to surface actionable patterns
+- Deployed an interactive GUI dashboard for real-time data-to-insight visualization
 
 ---
 
 ### 🎲 Algorithmic Board Game — State Management & AI Logic
-
 > `Python` `Tkinter`
 
-- Built a 4-player game
-- Implemented event-driven architecture
-- Added probabilistic dice simulation
+- Built a 4-player, 100-tile state machine with event-driven architecture and **probabilistic dice simulation**
+- Implemented modular architecture with 10+ reusable functions covering collision detection, UI rendering, and state transitions
 
 ---
 
 ## 📜 Certifications
 
 | Certification | Issuer | Year |
-|--------------|--------|------|
+|---|---|---|
 | Data Analytics Job Simulation | Deloitte Australia (Forage) | 2024 |
 | Data Analytics & Visualization | Accenture NA (Forage) | 2024 |
 | Data Analysis with Python | Udemy | 2024 |
@@ -95,34 +90,16 @@ I'm a third-year CS student at **Bansal Institute of Research and Technology, Bh
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kanganagupta/Kanganagupta/output/pacman-contribution-graph-dark.svg">
+</p>
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanganagupta&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanganagupta&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎮 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Kanganagupta/Kanganagupta/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Kanganagupta/Kanganagupta/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph"
-src="https://raw.githubusercontent.com/Kanganagupta/Kanganagupta/output/pacman-contribution-graph.svg">
-
-</picture>
+![Kangana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanganagupta&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanganagupta&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -130,20 +107,14 @@ src="https://raw.githubusercontent.com/Kanganagupta/Kanganagupta/output/pacman-c
 
 ## 🎯 Currently Working On
 
-- 📚 Strengthening ML foundations
-- 🧩 Expanding LeetCode streak
-- 🔍 Exploring NLP projects
-- 🚀 Building end-to-end ML projects
+- 📚 Strengthening ML foundations — supervised/unsupervised learning, model evaluation
+- 🧩 Expanding LeetCode streak across dynamic programming and graph problems
+- 🔍 Exploring NLP and predictive modeling projects
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+*Open to internships, collaborations, and ML/data opportunities — let's connect!*
 
-Open to internships, collaborations, and ML/data opportunities.
-
-⭐ Thanks for visiting my profile!
-
-</div>
-```
+</div> where what do i put 
