@@ -117,4 +117,4 @@ I'm a second-year CS student at **Bansal Institute of Research and Technology, B
 
 *Open to internships, collaborations, and ML/data opportunities — let's connect!*
 
-</div> where what do i put 
+</div>
