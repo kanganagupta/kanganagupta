@@ -98,7 +98,6 @@ I'm a second-year CS student at **Bansal Institute of Research and Technology, B
 
 <div align="center">
 
-![Kangana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanganagupta&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanganagupta&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
